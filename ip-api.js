@@ -1,4 +1,4 @@
-if ($response.statusCode != 200) {1
+if ($response.statusCode != 200) {
   $done(null);
 }
 
